@@ -1,0 +1,9 @@
+@media (max-width: 428px) {
+    .container {
+        display: none;
+    }
+    
+    body {
+        background-color: #f0f4f8;
+    }
+}
